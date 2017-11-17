@@ -1,0 +1,23 @@
+{
+  "name": "parameter.js",
+  "version": "1.0.0",
+  "description": "Retrieve function parameter name and default values",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaronong/parameter.js.git"
+  },
+  "keywords": ["function", "parameter", "javascript", "function-parameter"],
+  "author": "Aaronong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaronong/parameter.js/issues"
+  },
+  "homepage": "https://github.com/Aaronong/parameter.js#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
